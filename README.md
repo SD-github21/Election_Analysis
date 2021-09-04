@@ -30,16 +30,9 @@ The analysis of the election show that:
 ## Challenge Overview 
 
 ### Overview of Election Audit
-The Colorado Board of Elections employee initially requested an election audit of a recent total Congressional election and to provide information about the total votes cast and the candidates, i.e., the total number each candidate received, the percentage of the vote that each candidate received, and the winner of the election. The election commission then requested some additional information to include in the election audit, such as information about the counties and their votes. The new list of tasks were as follows: 
+The Colorado Board of Elections employee initially requested an election audit of a recent total Congressional election with information about the total votes cast and the candidates, i.e., the total number each candidate received, the percentage of the vote that each candidate received, and the winner of the election. The election commission then requested additional information to include in the election audit, such as information about the counties and their votes. The full list of tasks performed were as follows: 
 
-### Election Audit Results
 1. Calculate the total number of votes cast. 
-
-![image](https://user-images.githubusercontent.com/85533099/132106121-3feac42a-2bc5-4d86-91f8-71fe489f49e9.png)
-
-
-
-
 2. Calculate the total number of votes cast within each county.
 3. Calculate the percentange of votes from each county. 
 4. Determine which county had the largest voter turnout.
@@ -50,7 +43,7 @@ The Colorado Board of Elections employee initially requested an election audit o
 
 ## Challenge Summary 
 
-### Election Audit Summary
+### Election Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The results for voter turnout for each county was:
@@ -70,5 +63,5 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-### Future Directions
-The current code 
+### Election Audit Summary
+The current analysis revealed how Python coding could be utilized to determine the results of a recent total Congressional election. As described above, the analysis conducted was limited to a particular congressional district, Colorado's 1st congressional district, consisting of a precinct of three counties in Colorado, i.e., Jefferson, Denver, and Arapahoe. However, the same exact code has powerful versatility and can be utilized to conduct election audit results for any of the 7 congressional districts in Colorado. For example, the commission can apply the same script to election data files obtained for the other 6 congressional districts and yield the same type of data results for each congressional district. Furthermore, the existing script can be modified to run analyses to obtain other election results that might be of interest to the election commission. For example, this script can be performed on data files that also contain information about voters' political party affiliation. We could add the following code
