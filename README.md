@@ -35,7 +35,7 @@ The Colorado Board of Elections employee initially requested an election audit o
 ### Election Audit Results
 1. Calculate the total number of votes cast. 
 
-![image](https://user-images.githubusercontent.com/85533099/132106059-fca95452-c10e-4e0b-93dc-6dab371df670.png)
+![image](https://user-images.githubusercontent.com/85533099/132106121-3feac42a-2bc5-4d86-91f8-71fe489f49e9.png)
 
 
 
