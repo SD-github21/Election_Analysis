@@ -34,6 +34,12 @@ The Colorado Board of Elections employee initially requested an election audit o
 
 ### Election Audit Results
 1. Calculate the total number of votes cast. 
+
+![image](https://user-images.githubusercontent.com/85533099/132106059-fca95452-c10e-4e0b-93dc-6dab371df670.png)
+
+
+
+
 2. Calculate the total number of votes cast within each county.
 3. Calculate the percentange of votes from each county. 
 4. Determine which county had the largest voter turnout.
