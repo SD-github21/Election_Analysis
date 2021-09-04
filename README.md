@@ -33,13 +33,20 @@ The analysis of the election show that:
 The Colorado Board of Elections employee initially requested an election audit of a recent total Congressional election with information about the total votes cast and the candidates, i.e., the total number each candidate received, the percentage of the vote that each candidate received, and the winner of the election. The election commission then requested additional information to include in the election audit, such as information about the counties and their votes. The full list of tasks performed were as follows: 
 
 1. Calculate the total number of votes cast. 
-2. Calculate the total number of votes cast within each county.
-3. Calculate the percentange of votes from each county. 
-4. Determine which county had the largest voter turnout.
-5. Get a complete list of candidates who received votes.
-6. Calculate the total number of votes each candidate received.
-7. Calculate the percentage of votes each candidate won.
-8. Determine the winner of the election based on popular vote.
+
+![image](https://user-images.githubusercontent.com/85533099/132108442-dbc95fb7-b171-45a7-b4af-0a9c5897c317.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132108452-da198de1-33c3-4114-9801-1de0b0870cf9.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132108458-8987e879-6d81-4c90-a528-7f59e4dab945.png)
+
+3. Calculate the total number of votes cast within each county.
+4. Calculate the percentange of votes from each county. 
+5. Determine which county had the largest voter turnout.
+6. Get a complete list of candidates who received votes.
+7. Calculate the total number of votes each candidate received.
+8. Calculate the percentage of votes each candidate won.
+9. Determine the winner of the election based on popular vote.
 
 ## Challenge Summary 
 
