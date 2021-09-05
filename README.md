@@ -40,13 +40,35 @@ The Colorado Board of Elections employee initially requested an election audit o
 
 ![image](https://user-images.githubusercontent.com/85533099/132108458-8987e879-6d81-4c90-a528-7f59e4dab945.png)
 
-3. Calculate the total number of votes cast within each county.
-4. Calculate the percentange of votes from each county. 
-5. Determine which county had the largest voter turnout.
-6. Get a complete list of candidates who received votes.
-7. Calculate the total number of votes each candidate received.
-8. Calculate the percentage of votes each candidate won.
-9. Determine the winner of the election based on popular vote.
+2. Calculate votes by county:
+  - Calculate the total number of votes cast within each county.
+  - Calculate the percentange of votes from each county. 
+  - Determine which county had the largest voter turnout.
+
+![image](https://user-images.githubusercontent.com/85533099/132113872-ade1ef29-1d2a-4cec-b3a2-fad9f2861980.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132113878-2f7cb03c-71d9-45cf-96c2-4163d8816f5a.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132113887-06e20289-c0c4-4ae7-86b7-358bbd282500.png)
+
+3. Calculate votes by candidate:
+  - Get a complete list of candidates who received votes.
+  - Calculate the total number of votes each candidate received.
+  - Calculate the percentage of votes each candidate won.
+
+![image](https://user-images.githubusercontent.com/85533099/132114158-abb10c95-01aa-4c53-9dbe-52c32dc95447.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132114164-c40c4e07-ddf1-4eaa-ad98-4e3602ef68ce.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132114166-2d61d55d-958e-4433-b599-e3c973800f8c.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132114171-9022447c-75b7-4e38-83f8-6c6f989b69cf.png)
+
+![image](https://user-images.githubusercontent.com/85533099/132114175-7cc76ffa-ee16-41c3-ad22-7bbd7f7d336a.png)
+
+4. Determine the winner of the election based on popular vote.
+
+![image](https://user-images.githubusercontent.com/85533099/132114199-133433d1-3866-4b60-a79c-e63558c8093f.png)
 
 ## Challenge Summary 
 
