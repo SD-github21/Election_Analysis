@@ -30,7 +30,7 @@ The analysis of the election show that:
 ## Challenge Overview 
 
 ### Overview of Election Audit
-The Colorado Board of Elections employee initially requested an election audit of a recent total Congressional election with information about the total votes cast and the candidates, i.e., the total number each candidate received, the percentage of the vote that each candidate received, and the winner of the election. The election commission then requested additional information to include in the election audit, such as information about the counties and their votes. The full list of tasks performed were as follows: 
+The Colorado Board of Elections employee initially requested an election audit of a recent total Congressional election with information about the total votes cast and the candidates, i.e., the total number each candidate received, the percentage of the vote that each candidate received, and the winner of the election. The election commission then requested additional information to include in the election audit, such as information about the counties and their votes. The full list of tasks performed along with screens shots of  their associated Python coding are presented below: 
 
 1. Calculate the total number of votes cast. 
 
