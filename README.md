@@ -76,9 +76,9 @@ The Colorado Board of Elections employee initially requested an election audit o
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The results for voter turnout for each county was:
-  - Jefferson obtained 10.5% of the vote and 38,855 number of votes.
-  - Denver obtained 82.8% of the vote and 306,055 number of votes.
-  - Arapahoe obtained 6.7% of the vote and 24,801 number of votes.
+  - Jefferson county obtained 10.5% of the vote and 38,855 number of votes.
+  - Denver county obtained 82.8% of the vote and 306,055 number of votes.
+  - Arapahoe county obtained 6.7% of the vote and 24,801 number of votes.
 - The county with the largest voter turnout was:
   - Denver, which obtained 82.8% of the vote and 306,055 number of votes. 
 - The candidates were:
